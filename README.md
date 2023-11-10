@@ -35,7 +35,7 @@ To use this password generator, you need to have Go installed on your computer. 
 To run the program directly without compiling, use the following command in the terminal:
 
     ```bash
-        go run main.go
+    go run main.go
     ```
 
 ### Compiling
@@ -43,13 +43,13 @@ To run the program directly without compiling, use the following command in the 
 To run the program directly compiling, use the following command in the terminal:
 
     ```bash
-        go build main.go
+    go build main.go
     ```
 
 Then use the following command in the terminal:
 
     ```bash
-        ./passwordGenerator
+    ./main
     ```
 
 ## Contribución
