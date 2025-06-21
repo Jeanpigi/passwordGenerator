@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Jean Pierre Giovanni Arenas Ortiz]
+Copyright (c) [2023] [Jean Pierre]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (el "Software"), para
